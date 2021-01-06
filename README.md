@@ -1,0 +1,2 @@
+# instagram
+ Neste projeto eu recrie a interface de login do instagram, esse projeto foi desenvolvido pela Front-end Developer, Gabriela Pinheiro da empresa B8ONE. Eu recriei o projeto na plataforma da Digital Innovation One. Nesse projeto eu alterei o:     - Background da página;  - Perfil de usuário;  - Cor do link para remover conta;  -Cor do botão de acesso a conta;  -Inseri um emoji ao lado do botão de acesso;  - Arredondei os botões para baixar o app.
